@@ -1,4 +1,4 @@
-Hello, I am Yusuf Ahmedjeelani. I am a sophmore at the University of Illinois at Chicago majoring in Computer Science.
+Hello, I am Yusuf Ahmedjeelani. I am a cybersecurity analyst with a passion for programming. 
 
 I am passionate about problem solving and programing.
 
